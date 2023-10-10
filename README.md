@@ -16,10 +16,15 @@ Docker، Docker Compose ، Nginx reverse proxy  ، و Portainer-CE
 1. دانلود اسکریپت:
 
 ```sh
-  git clone https://github.com/rahkarsys/pontainer.git
-  chmod +x install.sh.sh
-  sudo ./install.sh.sh
+git clone https://github.com/rahkarsys/pontainer.git
+cd pontainer && chmod +x install.sh.sh
+sudo ./install.sh.sh
 ```
+
+http://127.0.0.1:9000
+
+
+
 منابع
 
 ## برای اطلاعات بیشتر، به منابع زیر مراجعه کنید
