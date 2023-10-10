@@ -21,7 +21,6 @@ cd pontainer && chmod +x install.sh.sh
 sudo ./install.sh.sh
 ```
 
-http://127.0.0.1:9000
 
 
 
